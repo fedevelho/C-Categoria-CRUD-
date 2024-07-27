@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Fede Velho\\Desktop\\Proyecto\\C# Proyedcto Capas (Curso Medio)\\Modelo Capas (Practica)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE3AB525-EE57-4511-86A0-06C471559559}|Presentacion\\Presentacion.csproj|c:\\users\\fede velho\\desktop\\proyecto\\c# proyedcto capas (curso medio)\\modelo capas (practica)\\presentacion\\frm_principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE3AB525-EE57-4511-86A0-06C471559559}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\frm_principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EBEE892-F00C-49E6-AAB3-886297BA3DAA}|Datos\\Datos.csproj|C:\\Users\\Fede Velho\\Desktop\\Proyecto\\C# Proyedcto Capas (Curso Medio)\\Modelo Capas (Practica)\\datos\\d_categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EBEE892-F00C-49E6-AAB3-886297BA3DAA}|Datos\\Datos.csproj|solutionrelative:datos\\d_categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB6526F-6CA5-438F-A73B-7DF5832C2229}|Negocio\\Negocio.csproj|C:\\Users\\Fede Velho\\Desktop\\Proyecto\\C# Proyedcto Capas (Curso Medio)\\Modelo Capas (Practica)\\negocio\\n_categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DB6526F-6CA5-438F-A73B-7DF5832C2229}|Negocio\\Negocio.csproj|solutionrelative:negocio\\n_categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE3AB525-EE57-4511-86A0-06C471559559}|Presentacion\\Presentacion.csproj|C:\\Users\\Fede Velho\\Desktop\\Proyecto\\C# Proyedcto Capas (Curso Medio)\\Modelo Capas (Practica)\\presentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE3AB525-EE57-4511-86A0-06C471559559}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49823CAD-FCC1-47BC-9715-F07A5DFAB858}|Entidades\\Entidades.csproj|C:\\Users\\Fede Velho\\Desktop\\Proyecto\\C# Proyedcto Capas (Curso Medio)\\Modelo Capas (Practica)\\entidades\\e_categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49823CAD-FCC1-47BC-9715-F07A5DFAB858}|Entidades\\Entidades.csproj|solutionrelative:entidades\\e_categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EBEE892-F00C-49E6-AAB3-886297BA3DAA}|Datos\\Datos.csproj|C:\\Users\\Fede Velho\\Desktop\\Proyecto\\C# Proyedcto Capas (Curso Medio)\\Modelo Capas (Practica)\\datos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EBEE892-F00C-49E6-AAB3-886297BA3DAA}|Datos\\Datos.csproj|solutionrelative:datos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE3AB525-EE57-4511-86A0-06C471559559}|Presentacion\\Presentacion.csproj|C:\\Users\\Fede Velho\\Desktop\\Proyecto\\C# Proyedcto Capas (Curso Medio)\\Modelo Capas (Practica)\\presentacion\\frm_principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FE3AB525-EE57-4511-86A0-06C471559559}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\frm_principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "E_categoria.cs",
+              "DocumentMoniker": "C:\\Users\\Fede Velho\\Desktop\\Proyecto\\C# Proyedcto Capas (Curso Medio)\\Modelo Capas (Practica)\\Entidades\\E_categoria.cs",
+              "RelativeDocumentMoniker": "Entidades\\E_categoria.cs",
+              "ToolTip": "C:\\Users\\Fede Velho\\Desktop\\Proyecto\\C# Proyedcto Capas (Curso Medio)\\Modelo Capas (Practica)\\Entidades\\E_categoria.cs",
+              "RelativeToolTip": "Entidades\\E_categoria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T04:18:59.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frm_principal.cs",
+              "DocumentMoniker": "C:\\Users\\Fede Velho\\Desktop\\Proyecto\\C# Proyedcto Capas (Curso Medio)\\Modelo Capas (Practica)\\Presentacion\\frm_principal.cs",
+              "RelativeDocumentMoniker": "Presentacion\\frm_principal.cs",
+              "ToolTip": "C:\\Users\\Fede Velho\\Desktop\\Proyecto\\C# Proyedcto Capas (Curso Medio)\\Modelo Capas (Practica)\\Presentacion\\frm_principal.cs",
+              "RelativeToolTip": "Presentacion\\frm_principal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T03:26:04.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Fede Velho\\Desktop\\Proyecto\\C# Proyedcto Capas (Curso Medio)\\Modelo Capas (Practica)\\Presentacion\\Program.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Program.cs",
+              "ToolTip": "C:\\Users\\Fede Velho\\Desktop\\Proyecto\\C# Proyedcto Capas (Curso Medio)\\Modelo Capas (Practica)\\Presentacion\\Program.cs",
+              "RelativeToolTip": "Presentacion\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T03:04:04.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "N_categoria.cs",
+              "DocumentMoniker": "C:\\Users\\Fede Velho\\Desktop\\Proyecto\\C# Proyedcto Capas (Curso Medio)\\Modelo Capas (Practica)\\Negocio\\N_categoria.cs",
+              "RelativeDocumentMoniker": "Negocio\\N_categoria.cs",
+              "ToolTip": "C:\\Users\\Fede Velho\\Desktop\\Proyecto\\C# Proyedcto Capas (Curso Medio)\\Modelo Capas (Practica)\\Negocio\\N_categoria.cs",
+              "RelativeToolTip": "Negocio\\N_categoria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T02:48:55.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "D_categoria.cs",
+              "DocumentMoniker": "C:\\Users\\Fede Velho\\Desktop\\Proyecto\\C# Proyedcto Capas (Curso Medio)\\Modelo Capas (Practica)\\Datos\\D_categoria.cs",
+              "RelativeDocumentMoniker": "Datos\\D_categoria.cs",
+              "ToolTip": "C:\\Users\\Fede Velho\\Desktop\\Proyecto\\C# Proyedcto Capas (Curso Medio)\\Modelo Capas (Practica)\\Datos\\D_categoria.cs",
+              "RelativeToolTip": "Datos\\D_categoria.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAADgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T02:22:01.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\Fede Velho\\Desktop\\Proyecto\\C# Proyedcto Capas (Curso Medio)\\Modelo Capas (Practica)\\Datos\\Conexion.cs",
+              "RelativeDocumentMoniker": "Datos\\Conexion.cs",
+              "ToolTip": "C:\\Users\\Fede Velho\\Desktop\\Proyecto\\C# Proyedcto Capas (Curso Medio)\\Modelo Capas (Practica)\\Datos\\Conexion.cs",
+              "RelativeToolTip": "Datos\\Conexion.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAQwCEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T01:06:14.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frm_principal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Fede Velho\\Desktop\\Proyecto\\C# Proyedcto Capas (Curso Medio)\\Modelo Capas (Practica)\\Presentacion\\frm_principal.cs",
+              "RelativeDocumentMoniker": "Presentacion\\frm_principal.cs",
+              "ToolTip": "C:\\Users\\Fede Velho\\Desktop\\Proyecto\\C# Proyedcto Capas (Curso Medio)\\Modelo Capas (Practica)\\Presentacion\\frm_principal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Presentacion\\frm_principal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T00:49:44.515Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

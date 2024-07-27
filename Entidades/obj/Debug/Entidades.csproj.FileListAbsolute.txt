@@ -1,0 +1,6 @@
+C:\Users\Fede Velho\Desktop\Proyecto\C# Proyedcto Capas (Curso Medio)\Modelo Capas (Practica)\Entidades\bin\Debug\Entidades.dll
+C:\Users\Fede Velho\Desktop\Proyecto\C# Proyedcto Capas (Curso Medio)\Modelo Capas (Practica)\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Fede Velho\Desktop\Proyecto\C# Proyedcto Capas (Curso Medio)\Modelo Capas (Practica)\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Fede Velho\Desktop\Proyecto\C# Proyedcto Capas (Curso Medio)\Modelo Capas (Practica)\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Fede Velho\Desktop\Proyecto\C# Proyedcto Capas (Curso Medio)\Modelo Capas (Practica)\Entidades\obj\Debug\Entidades.dll
+C:\Users\Fede Velho\Desktop\Proyecto\C# Proyedcto Capas (Curso Medio)\Modelo Capas (Practica)\Entidades\obj\Debug\Entidades.pdb
